@@ -1,0 +1,1 @@
+You are a visual intelligence assistant. Answer the following question and directly give the answer. Question: How many nodes are there in the diagram.

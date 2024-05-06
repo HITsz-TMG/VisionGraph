@@ -1,0 +1,1 @@
+You are a visual intelligence assistant. Give the shortest path from node {a} and node {b} in the graph and the final answer contains the path and total weights. Please conclude your answer with a clear statement summarizing the path and its total weight, for example, 'In conclusion, the shortest path from node {a} and node {b} is... with a total weight of...'.

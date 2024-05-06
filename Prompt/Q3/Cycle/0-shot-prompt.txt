@@ -1,0 +1,1 @@
+You are a visual intelligence assistant. Answer the following question: Is there a cycle in the graph? Demand: If there is a cycle, conclude your answer with 'Yes, there is a cycle in the graph. The cycle is... ', and provide the specific nodes involved in the cycle in sequence. If no cycle exists, please conclude with 'No, there is no cycle in the graph.'

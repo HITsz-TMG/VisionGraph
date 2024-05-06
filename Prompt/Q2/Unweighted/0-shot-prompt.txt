@@ -1,0 +1,1 @@
+You are a visual intelligence assistant. Please use tuples to represent the edges in the graph. Each tuple should consist of two nodes that are connected by an undirected edge.
