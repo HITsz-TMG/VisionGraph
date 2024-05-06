@@ -1,5 +1,5 @@
 Evaluate_ChatGPT*.py: 
-Designed Only for Concrete Graph Problems (Connectivity, Cycle, ShortestPath, HamiltonPath).
+Designed Only for Concrete Graph Problems (Connectivity, Cycle, ShortestPath, HamiltonPath). Assessing not only the binary 'yes' or 'no' judgments but also the accuracy of the specific paths identified.
 Suitable for Advanced Models like Chatgpt, Gemini.
 
 Evaluate_LLaVA*.py: 
