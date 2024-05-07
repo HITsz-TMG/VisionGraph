@@ -1,7 +1,7 @@
 [
     {
         "id": "0",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_0.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_0.png",
         "conversations": [
             {
                 "from": "human",
@@ -31,7 +31,7 @@
     },
     {
         "id": "1",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_1.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_1.png",
         "conversations": [
             {
                 "from": "human",
@@ -61,7 +61,7 @@
     },
     {
         "id": "2",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_2.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_2.png",
         "conversations": [
             {
                 "from": "human",
@@ -91,7 +91,7 @@
     },
     {
         "id": "3",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_3.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_3.png",
         "conversations": [
             {
                 "from": "human",
@@ -121,7 +121,7 @@
     },
     {
         "id": "4",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_4.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_4.png",
         "conversations": [
             {
                 "from": "human",
@@ -151,7 +151,7 @@
     },
     {
         "id": "5",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_5.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_5.png",
         "conversations": [
             {
                 "from": "human",
@@ -181,7 +181,7 @@
     },
     {
         "id": "6",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_6.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_6.png",
         "conversations": [
             {
                 "from": "human",
@@ -211,7 +211,7 @@
     },
     {
         "id": "7",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_7.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_7.png",
         "conversations": [
             {
                 "from": "human",
@@ -241,7 +241,7 @@
     },
     {
         "id": "8",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_8.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_8.png",
         "conversations": [
             {
                 "from": "human",
@@ -271,7 +271,7 @@
     },
     {
         "id": "9",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_9.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_9.png",
         "conversations": [
             {
                 "from": "human",
@@ -301,7 +301,7 @@
     },
     {
         "id": "10",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_10.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_10.png",
         "conversations": [
             {
                 "from": "human",
@@ -331,7 +331,7 @@
     },
     {
         "id": "11",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_11.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_11.png",
         "conversations": [
             {
                 "from": "human",
@@ -361,7 +361,7 @@
     },
     {
         "id": "12",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_12.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_12.png",
         "conversations": [
             {
                 "from": "human",
@@ -391,7 +391,7 @@
     },
     {
         "id": "13",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_13.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_13.png",
         "conversations": [
             {
                 "from": "human",
@@ -421,7 +421,7 @@
     },
     {
         "id": "14",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_14.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_14.png",
         "conversations": [
             {
                 "from": "human",
@@ -451,7 +451,7 @@
     },
     {
         "id": "15",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_15.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_15.png",
         "conversations": [
             {
                 "from": "human",
@@ -481,7 +481,7 @@
     },
     {
         "id": "16",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_16.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_16.png",
         "conversations": [
             {
                 "from": "human",
@@ -511,7 +511,7 @@
     },
     {
         "id": "17",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_17.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_17.png",
         "conversations": [
             {
                 "from": "human",
@@ -541,7 +541,7 @@
     },
     {
         "id": "18",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_18.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_18.png",
         "conversations": [
             {
                 "from": "human",
@@ -571,7 +571,7 @@
     },
     {
         "id": "19",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_19.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_19.png",
         "conversations": [
             {
                 "from": "human",
@@ -601,7 +601,7 @@
     },
     {
         "id": "20",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_20.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_20.png",
         "conversations": [
             {
                 "from": "human",
@@ -631,7 +631,7 @@
     },
     {
         "id": "21",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_21.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_21.png",
         "conversations": [
             {
                 "from": "human",
@@ -661,7 +661,7 @@
     },
     {
         "id": "22",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_22.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_22.png",
         "conversations": [
             {
                 "from": "human",
@@ -691,7 +691,7 @@
     },
     {
         "id": "23",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_23.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_23.png",
         "conversations": [
             {
                 "from": "human",
@@ -721,7 +721,7 @@
     },
     {
         "id": "24",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_24.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_24.png",
         "conversations": [
             {
                 "from": "human",
@@ -751,7 +751,7 @@
     },
     {
         "id": "25",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_25.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_25.png",
         "conversations": [
             {
                 "from": "human",
@@ -781,7 +781,7 @@
     },
     {
         "id": "26",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_26.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_26.png",
         "conversations": [
             {
                 "from": "human",
@@ -811,7 +811,7 @@
     },
     {
         "id": "27",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_27.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_27.png",
         "conversations": [
             {
                 "from": "human",
@@ -841,7 +841,7 @@
     },
     {
         "id": "28",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_28.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_28.png",
         "conversations": [
             {
                 "from": "human",
@@ -871,7 +871,7 @@
     },
     {
         "id": "29",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_29.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_29.png",
         "conversations": [
             {
                 "from": "human",
@@ -901,7 +901,7 @@
     },
     {
         "id": "30",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_30.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_30.png",
         "conversations": [
             {
                 "from": "human",
@@ -931,7 +931,7 @@
     },
     {
         "id": "31",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_31.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_31.png",
         "conversations": [
             {
                 "from": "human",
@@ -961,7 +961,7 @@
     },
     {
         "id": "32",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_32.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_32.png",
         "conversations": [
             {
                 "from": "human",
@@ -991,7 +991,7 @@
     },
     {
         "id": "33",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_33.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_33.png",
         "conversations": [
             {
                 "from": "human",
@@ -1021,7 +1021,7 @@
     },
     {
         "id": "34",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_34.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_34.png",
         "conversations": [
             {
                 "from": "human",
@@ -1051,7 +1051,7 @@
     },
     {
         "id": "35",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_35.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_35.png",
         "conversations": [
             {
                 "from": "human",
@@ -1081,7 +1081,7 @@
     },
     {
         "id": "36",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_36.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_36.png",
         "conversations": [
             {
                 "from": "human",
@@ -1111,7 +1111,7 @@
     },
     {
         "id": "37",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_37.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_37.png",
         "conversations": [
             {
                 "from": "human",
@@ -1141,7 +1141,7 @@
     },
     {
         "id": "38",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_38.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_38.png",
         "conversations": [
             {
                 "from": "human",
@@ -1171,7 +1171,7 @@
     },
     {
         "id": "39",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_39.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_39.png",
         "conversations": [
             {
                 "from": "human",
@@ -1201,7 +1201,7 @@
     },
     {
         "id": "40",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_40.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_40.png",
         "conversations": [
             {
                 "from": "human",
@@ -1231,7 +1231,7 @@
     },
     {
         "id": "41",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_41.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_41.png",
         "conversations": [
             {
                 "from": "human",
@@ -1261,7 +1261,7 @@
     },
     {
         "id": "42",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_42.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_42.png",
         "conversations": [
             {
                 "from": "human",
@@ -1291,7 +1291,7 @@
     },
     {
         "id": "43",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_43.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_43.png",
         "conversations": [
             {
                 "from": "human",
@@ -1321,7 +1321,7 @@
     },
     {
         "id": "44",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_44.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_44.png",
         "conversations": [
             {
                 "from": "human",
@@ -1351,7 +1351,7 @@
     },
     {
         "id": "45",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_45.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_45.png",
         "conversations": [
             {
                 "from": "human",
@@ -1381,7 +1381,7 @@
     },
     {
         "id": "46",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_46.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_46.png",
         "conversations": [
             {
                 "from": "human",
@@ -1411,7 +1411,7 @@
     },
     {
         "id": "47",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_47.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_47.png",
         "conversations": [
             {
                 "from": "human",
@@ -1441,7 +1441,7 @@
     },
     {
         "id": "48",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_48.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_48.png",
         "conversations": [
             {
                 "from": "human",
@@ -1471,7 +1471,7 @@
     },
     {
         "id": "49",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_49.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_49.png",
         "conversations": [
             {
                 "from": "human",
@@ -1501,7 +1501,7 @@
     },
     {
         "id": "50",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_50.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_50.png",
         "conversations": [
             {
                 "from": "human",
@@ -1531,7 +1531,7 @@
     },
     {
         "id": "51",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_51.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_51.png",
         "conversations": [
             {
                 "from": "human",
@@ -1561,7 +1561,7 @@
     },
     {
         "id": "52",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_52.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_52.png",
         "conversations": [
             {
                 "from": "human",
@@ -1591,7 +1591,7 @@
     },
     {
         "id": "53",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_53.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_53.png",
         "conversations": [
             {
                 "from": "human",
@@ -1621,7 +1621,7 @@
     },
     {
         "id": "54",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_54.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_54.png",
         "conversations": [
             {
                 "from": "human",
@@ -1651,7 +1651,7 @@
     },
     {
         "id": "55",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_55.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_55.png",
         "conversations": [
             {
                 "from": "human",
@@ -1681,7 +1681,7 @@
     },
     {
         "id": "56",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_56.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_56.png",
         "conversations": [
             {
                 "from": "human",
@@ -1711,7 +1711,7 @@
     },
     {
         "id": "57",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_57.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_57.png",
         "conversations": [
             {
                 "from": "human",
@@ -1741,7 +1741,7 @@
     },
     {
         "id": "58",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_58.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_58.png",
         "conversations": [
             {
                 "from": "human",
@@ -1771,7 +1771,7 @@
     },
     {
         "id": "59",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_59.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_59.png",
         "conversations": [
             {
                 "from": "human",
@@ -1801,7 +1801,7 @@
     },
     {
         "id": "60",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_60.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_60.png",
         "conversations": [
             {
                 "from": "human",
@@ -1831,7 +1831,7 @@
     },
     {
         "id": "61",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_61.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_61.png",
         "conversations": [
             {
                 "from": "human",
@@ -1861,7 +1861,7 @@
     },
     {
         "id": "62",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_62.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_62.png",
         "conversations": [
             {
                 "from": "human",
@@ -1891,7 +1891,7 @@
     },
     {
         "id": "63",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_63.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_63.png",
         "conversations": [
             {
                 "from": "human",
@@ -1921,7 +1921,7 @@
     },
     {
         "id": "64",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_64.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_64.png",
         "conversations": [
             {
                 "from": "human",
@@ -1951,7 +1951,7 @@
     },
     {
         "id": "65",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_65.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_65.png",
         "conversations": [
             {
                 "from": "human",
@@ -1981,7 +1981,7 @@
     },
     {
         "id": "66",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_66.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_66.png",
         "conversations": [
             {
                 "from": "human",
@@ -2011,7 +2011,7 @@
     },
     {
         "id": "67",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_67.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_67.png",
         "conversations": [
             {
                 "from": "human",
@@ -2041,7 +2041,7 @@
     },
     {
         "id": "68",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_68.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_68.png",
         "conversations": [
             {
                 "from": "human",
@@ -2071,7 +2071,7 @@
     },
     {
         "id": "69",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_69.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_69.png",
         "conversations": [
             {
                 "from": "human",
@@ -2101,7 +2101,7 @@
     },
     {
         "id": "70",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_70.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_70.png",
         "conversations": [
             {
                 "from": "human",
@@ -2131,7 +2131,7 @@
     },
     {
         "id": "71",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_71.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_71.png",
         "conversations": [
             {
                 "from": "human",
@@ -2161,7 +2161,7 @@
     },
     {
         "id": "72",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_72.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_72.png",
         "conversations": [
             {
                 "from": "human",
@@ -2191,7 +2191,7 @@
     },
     {
         "id": "73",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_73.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_73.png",
         "conversations": [
             {
                 "from": "human",
@@ -2221,7 +2221,7 @@
     },
     {
         "id": "74",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_74.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_74.png",
         "conversations": [
             {
                 "from": "human",
@@ -2251,7 +2251,7 @@
     },
     {
         "id": "75",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_75.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_75.png",
         "conversations": [
             {
                 "from": "human",
@@ -2281,7 +2281,7 @@
     },
     {
         "id": "76",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_76.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_76.png",
         "conversations": [
             {
                 "from": "human",
@@ -2311,7 +2311,7 @@
     },
     {
         "id": "77",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_77.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_77.png",
         "conversations": [
             {
                 "from": "human",
@@ -2341,7 +2341,7 @@
     },
     {
         "id": "78",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_78.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_78.png",
         "conversations": [
             {
                 "from": "human",
@@ -2371,7 +2371,7 @@
     },
     {
         "id": "79",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_79.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_79.png",
         "conversations": [
             {
                 "from": "human",
@@ -2401,7 +2401,7 @@
     },
     {
         "id": "80",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_80.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_80.png",
         "conversations": [
             {
                 "from": "human",
@@ -2431,7 +2431,7 @@
     },
     {
         "id": "81",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_81.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_81.png",
         "conversations": [
             {
                 "from": "human",
@@ -2461,7 +2461,7 @@
     },
     {
         "id": "82",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_82.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_82.png",
         "conversations": [
             {
                 "from": "human",
@@ -2491,7 +2491,7 @@
     },
     {
         "id": "83",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_83.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_83.png",
         "conversations": [
             {
                 "from": "human",
@@ -2521,7 +2521,7 @@
     },
     {
         "id": "84",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_84.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_84.png",
         "conversations": [
             {
                 "from": "human",
@@ -2551,7 +2551,7 @@
     },
     {
         "id": "85",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_85.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_85.png",
         "conversations": [
             {
                 "from": "human",
@@ -2581,7 +2581,7 @@
     },
     {
         "id": "86",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_86.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_86.png",
         "conversations": [
             {
                 "from": "human",
@@ -2611,7 +2611,7 @@
     },
     {
         "id": "87",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_87.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_87.png",
         "conversations": [
             {
                 "from": "human",
@@ -2641,7 +2641,7 @@
     },
     {
         "id": "88",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_88.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_88.png",
         "conversations": [
             {
                 "from": "human",
@@ -2671,7 +2671,7 @@
     },
     {
         "id": "89",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_89.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_89.png",
         "conversations": [
             {
                 "from": "human",
@@ -2701,7 +2701,7 @@
     },
     {
         "id": "90",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_90.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_90.png",
         "conversations": [
             {
                 "from": "human",
@@ -2731,7 +2731,7 @@
     },
     {
         "id": "91",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_91.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_91.png",
         "conversations": [
             {
                 "from": "human",
@@ -2761,7 +2761,7 @@
     },
     {
         "id": "92",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_92.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_92.png",
         "conversations": [
             {
                 "from": "human",
@@ -2791,7 +2791,7 @@
     },
     {
         "id": "93",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_93.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_93.png",
         "conversations": [
             {
                 "from": "human",
@@ -2821,7 +2821,7 @@
     },
     {
         "id": "94",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_94.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_94.png",
         "conversations": [
             {
                 "from": "human",
@@ -2851,7 +2851,7 @@
     },
     {
         "id": "95",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_95.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_95.png",
         "conversations": [
             {
                 "from": "human",
@@ -2881,7 +2881,7 @@
     },
     {
         "id": "96",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_96.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_96.png",
         "conversations": [
             {
                 "from": "human",
@@ -2911,7 +2911,7 @@
     },
     {
         "id": "97",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_97.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_97.png",
         "conversations": [
             {
                 "from": "human",
@@ -2941,7 +2941,7 @@
     },
     {
         "id": "98",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_98.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_98.png",
         "conversations": [
             {
                 "from": "human",
@@ -2971,7 +2971,7 @@
     },
     {
         "id": "99",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_99.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_99.png",
         "conversations": [
             {
                 "from": "human",
@@ -3001,7 +3001,7 @@
     },
     {
         "id": "100",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_100.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_100.png",
         "conversations": [
             {
                 "from": "human",
@@ -3031,7 +3031,7 @@
     },
     {
         "id": "101",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_101.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_101.png",
         "conversations": [
             {
                 "from": "human",
@@ -3061,7 +3061,7 @@
     },
     {
         "id": "102",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_102.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_102.png",
         "conversations": [
             {
                 "from": "human",
@@ -3091,7 +3091,7 @@
     },
     {
         "id": "103",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_103.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_103.png",
         "conversations": [
             {
                 "from": "human",
@@ -3121,7 +3121,7 @@
     },
     {
         "id": "104",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_104.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_104.png",
         "conversations": [
             {
                 "from": "human",
@@ -3151,7 +3151,7 @@
     },
     {
         "id": "105",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_105.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_105.png",
         "conversations": [
             {
                 "from": "human",
@@ -3181,7 +3181,7 @@
     },
     {
         "id": "106",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_106.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_106.png",
         "conversations": [
             {
                 "from": "human",
@@ -3211,7 +3211,7 @@
     },
     {
         "id": "107",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_107.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_107.png",
         "conversations": [
             {
                 "from": "human",
@@ -3241,7 +3241,7 @@
     },
     {
         "id": "108",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_108.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_108.png",
         "conversations": [
             {
                 "from": "human",
@@ -3271,7 +3271,7 @@
     },
     {
         "id": "109",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_109.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_109.png",
         "conversations": [
             {
                 "from": "human",
@@ -3301,7 +3301,7 @@
     },
     {
         "id": "110",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_110.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_110.png",
         "conversations": [
             {
                 "from": "human",
@@ -3331,7 +3331,7 @@
     },
     {
         "id": "111",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_111.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_111.png",
         "conversations": [
             {
                 "from": "human",
@@ -3361,7 +3361,7 @@
     },
     {
         "id": "112",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_112.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_112.png",
         "conversations": [
             {
                 "from": "human",
@@ -3391,7 +3391,7 @@
     },
     {
         "id": "113",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_113.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_113.png",
         "conversations": [
             {
                 "from": "human",
@@ -3421,7 +3421,7 @@
     },
     {
         "id": "114",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_114.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_114.png",
         "conversations": [
             {
                 "from": "human",
@@ -3451,7 +3451,7 @@
     },
     {
         "id": "115",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_115.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_115.png",
         "conversations": [
             {
                 "from": "human",
@@ -3481,7 +3481,7 @@
     },
     {
         "id": "116",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_116.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_116.png",
         "conversations": [
             {
                 "from": "human",
@@ -3511,7 +3511,7 @@
     },
     {
         "id": "117",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_117.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_117.png",
         "conversations": [
             {
                 "from": "human",
@@ -3541,7 +3541,7 @@
     },
     {
         "id": "118",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_118.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_118.png",
         "conversations": [
             {
                 "from": "human",
@@ -3571,7 +3571,7 @@
     },
     {
         "id": "119",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_119.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_119.png",
         "conversations": [
             {
                 "from": "human",
@@ -3601,7 +3601,7 @@
     },
     {
         "id": "120",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_120.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_120.png",
         "conversations": [
             {
                 "from": "human",
@@ -3631,7 +3631,7 @@
     },
     {
         "id": "121",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_121.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_121.png",
         "conversations": [
             {
                 "from": "human",
@@ -3661,7 +3661,7 @@
     },
     {
         "id": "122",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_122.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_122.png",
         "conversations": [
             {
                 "from": "human",
@@ -3691,7 +3691,7 @@
     },
     {
         "id": "123",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_123.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_123.png",
         "conversations": [
             {
                 "from": "human",
@@ -3721,7 +3721,7 @@
     },
     {
         "id": "124",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_124.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_124.png",
         "conversations": [
             {
                 "from": "human",
@@ -3751,7 +3751,7 @@
     },
     {
         "id": "125",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_125.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_125.png",
         "conversations": [
             {
                 "from": "human",
@@ -3781,7 +3781,7 @@
     },
     {
         "id": "126",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_126.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_126.png",
         "conversations": [
             {
                 "from": "human",
@@ -3811,7 +3811,7 @@
     },
     {
         "id": "127",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_127.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_127.png",
         "conversations": [
             {
                 "from": "human",
@@ -3841,7 +3841,7 @@
     },
     {
         "id": "128",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_128.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_128.png",
         "conversations": [
             {
                 "from": "human",
@@ -3871,7 +3871,7 @@
     },
     {
         "id": "129",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_129.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_129.png",
         "conversations": [
             {
                 "from": "human",
@@ -3901,7 +3901,7 @@
     },
     {
         "id": "130",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_130.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_130.png",
         "conversations": [
             {
                 "from": "human",
@@ -3931,7 +3931,7 @@
     },
     {
         "id": "131",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_131.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_131.png",
         "conversations": [
             {
                 "from": "human",
@@ -3961,7 +3961,7 @@
     },
     {
         "id": "132",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_132.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_132.png",
         "conversations": [
             {
                 "from": "human",
@@ -3991,7 +3991,7 @@
     },
     {
         "id": "133",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_133.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_133.png",
         "conversations": [
             {
                 "from": "human",
@@ -4021,7 +4021,7 @@
     },
     {
         "id": "134",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_134.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_134.png",
         "conversations": [
             {
                 "from": "human",
@@ -4051,7 +4051,7 @@
     },
     {
         "id": "135",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_135.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_135.png",
         "conversations": [
             {
                 "from": "human",
@@ -4081,7 +4081,7 @@
     },
     {
         "id": "136",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_136.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_136.png",
         "conversations": [
             {
                 "from": "human",
@@ -4111,7 +4111,7 @@
     },
     {
         "id": "137",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_137.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_137.png",
         "conversations": [
             {
                 "from": "human",
@@ -4141,7 +4141,7 @@
     },
     {
         "id": "138",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_138.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_138.png",
         "conversations": [
             {
                 "from": "human",
@@ -4171,7 +4171,7 @@
     },
     {
         "id": "139",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_139.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_139.png",
         "conversations": [
             {
                 "from": "human",
@@ -4201,7 +4201,7 @@
     },
     {
         "id": "140",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_140.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_140.png",
         "conversations": [
             {
                 "from": "human",
@@ -4231,7 +4231,7 @@
     },
     {
         "id": "141",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_141.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_141.png",
         "conversations": [
             {
                 "from": "human",
@@ -4261,7 +4261,7 @@
     },
     {
         "id": "142",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_142.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_142.png",
         "conversations": [
             {
                 "from": "human",
@@ -4291,7 +4291,7 @@
     },
     {
         "id": "143",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_143.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_143.png",
         "conversations": [
             {
                 "from": "human",
@@ -4321,7 +4321,7 @@
     },
     {
         "id": "144",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_144.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_144.png",
         "conversations": [
             {
                 "from": "human",
@@ -4351,7 +4351,7 @@
     },
     {
         "id": "145",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_145.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_145.png",
         "conversations": [
             {
                 "from": "human",
@@ -4381,7 +4381,7 @@
     },
     {
         "id": "146",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_146.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_146.png",
         "conversations": [
             {
                 "from": "human",
@@ -4411,7 +4411,7 @@
     },
     {
         "id": "147",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_147.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_147.png",
         "conversations": [
             {
                 "from": "human",
@@ -4441,7 +4441,7 @@
     },
     {
         "id": "148",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_148.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_148.png",
         "conversations": [
             {
                 "from": "human",
@@ -4471,7 +4471,7 @@
     },
     {
         "id": "149",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_149.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_149.png",
         "conversations": [
             {
                 "from": "human",
@@ -4501,7 +4501,7 @@
     },
     {
         "id": "150",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_150.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_150.png",
         "conversations": [
             {
                 "from": "human",
@@ -4531,7 +4531,7 @@
     },
     {
         "id": "151",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_151.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_151.png",
         "conversations": [
             {
                 "from": "human",
@@ -4561,7 +4561,7 @@
     },
     {
         "id": "152",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_152.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_152.png",
         "conversations": [
             {
                 "from": "human",
@@ -4591,7 +4591,7 @@
     },
     {
         "id": "153",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_153.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_153.png",
         "conversations": [
             {
                 "from": "human",
@@ -4621,7 +4621,7 @@
     },
     {
         "id": "154",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_154.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_154.png",
         "conversations": [
             {
                 "from": "human",
@@ -4651,7 +4651,7 @@
     },
     {
         "id": "155",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_155.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_155.png",
         "conversations": [
             {
                 "from": "human",
@@ -4681,7 +4681,7 @@
     },
     {
         "id": "156",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_156.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_156.png",
         "conversations": [
             {
                 "from": "human",
@@ -4711,7 +4711,7 @@
     },
     {
         "id": "157",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_157.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_157.png",
         "conversations": [
             {
                 "from": "human",
@@ -4741,7 +4741,7 @@
     },
     {
         "id": "158",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_158.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_158.png",
         "conversations": [
             {
                 "from": "human",
@@ -4771,7 +4771,7 @@
     },
     {
         "id": "159",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_159.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_159.png",
         "conversations": [
             {
                 "from": "human",
@@ -4801,7 +4801,7 @@
     },
     {
         "id": "160",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_160.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_160.png",
         "conversations": [
             {
                 "from": "human",
@@ -4831,7 +4831,7 @@
     },
     {
         "id": "161",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_161.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_161.png",
         "conversations": [
             {
                 "from": "human",
@@ -4861,7 +4861,7 @@
     },
     {
         "id": "162",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_162.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_162.png",
         "conversations": [
             {
                 "from": "human",
@@ -4891,7 +4891,7 @@
     },
     {
         "id": "163",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_163.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_163.png",
         "conversations": [
             {
                 "from": "human",
@@ -4921,7 +4921,7 @@
     },
     {
         "id": "164",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_164.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_164.png",
         "conversations": [
             {
                 "from": "human",
@@ -4951,7 +4951,7 @@
     },
     {
         "id": "165",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_165.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_165.png",
         "conversations": [
             {
                 "from": "human",
@@ -4981,7 +4981,7 @@
     },
     {
         "id": "166",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_166.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_166.png",
         "conversations": [
             {
                 "from": "human",
@@ -5011,7 +5011,7 @@
     },
     {
         "id": "167",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_167.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_167.png",
         "conversations": [
             {
                 "from": "human",
@@ -5041,7 +5041,7 @@
     },
     {
         "id": "168",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_168.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_168.png",
         "conversations": [
             {
                 "from": "human",
@@ -5071,7 +5071,7 @@
     },
     {
         "id": "169",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_169.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_169.png",
         "conversations": [
             {
                 "from": "human",
@@ -5101,7 +5101,7 @@
     },
     {
         "id": "170",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_170.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_170.png",
         "conversations": [
             {
                 "from": "human",
@@ -5131,7 +5131,7 @@
     },
     {
         "id": "171",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_171.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_171.png",
         "conversations": [
             {
                 "from": "human",
@@ -5161,7 +5161,7 @@
     },
     {
         "id": "172",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_172.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_172.png",
         "conversations": [
             {
                 "from": "human",
@@ -5191,7 +5191,7 @@
     },
     {
         "id": "173",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_173.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_173.png",
         "conversations": [
             {
                 "from": "human",
@@ -5221,7 +5221,7 @@
     },
     {
         "id": "174",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_174.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_174.png",
         "conversations": [
             {
                 "from": "human",
@@ -5251,7 +5251,7 @@
     },
     {
         "id": "175",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_175.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_175.png",
         "conversations": [
             {
                 "from": "human",
@@ -5281,7 +5281,7 @@
     },
     {
         "id": "176",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_176.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_176.png",
         "conversations": [
             {
                 "from": "human",
@@ -5311,7 +5311,7 @@
     },
     {
         "id": "177",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_177.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_177.png",
         "conversations": [
             {
                 "from": "human",
@@ -5341,7 +5341,7 @@
     },
     {
         "id": "178",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_178.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_178.png",
         "conversations": [
             {
                 "from": "human",
@@ -5371,7 +5371,7 @@
     },
     {
         "id": "179",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_179.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_179.png",
         "conversations": [
             {
                 "from": "human",
@@ -5401,7 +5401,7 @@
     },
     {
         "id": "180",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_180.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_180.png",
         "conversations": [
             {
                 "from": "human",
@@ -5431,7 +5431,7 @@
     },
     {
         "id": "181",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_181.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_181.png",
         "conversations": [
             {
                 "from": "human",
@@ -5461,7 +5461,7 @@
     },
     {
         "id": "182",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_182.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_182.png",
         "conversations": [
             {
                 "from": "human",
@@ -5491,7 +5491,7 @@
     },
     {
         "id": "183",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_183.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_183.png",
         "conversations": [
             {
                 "from": "human",
@@ -5521,7 +5521,7 @@
     },
     {
         "id": "184",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_184.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_184.png",
         "conversations": [
             {
                 "from": "human",
@@ -5551,7 +5551,7 @@
     },
     {
         "id": "185",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_185.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_185.png",
         "conversations": [
             {
                 "from": "human",
@@ -5581,7 +5581,7 @@
     },
     {
         "id": "186",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_186.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_186.png",
         "conversations": [
             {
                 "from": "human",
@@ -5611,7 +5611,7 @@
     },
     {
         "id": "187",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_187.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_187.png",
         "conversations": [
             {
                 "from": "human",
@@ -5641,7 +5641,7 @@
     },
     {
         "id": "188",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_188.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_188.png",
         "conversations": [
             {
                 "from": "human",
@@ -5671,7 +5671,7 @@
     },
     {
         "id": "189",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_189.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_189.png",
         "conversations": [
             {
                 "from": "human",
@@ -5701,7 +5701,7 @@
     },
     {
         "id": "190",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_190.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_190.png",
         "conversations": [
             {
                 "from": "human",
@@ -5731,7 +5731,7 @@
     },
     {
         "id": "191",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_191.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_191.png",
         "conversations": [
             {
                 "from": "human",
@@ -5761,7 +5761,7 @@
     },
     {
         "id": "192",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_192.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_192.png",
         "conversations": [
             {
                 "from": "human",
@@ -5791,7 +5791,7 @@
     },
     {
         "id": "193",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_193.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_193.png",
         "conversations": [
             {
                 "from": "human",
@@ -5821,7 +5821,7 @@
     },
     {
         "id": "194",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_194.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_194.png",
         "conversations": [
             {
                 "from": "human",
@@ -5851,7 +5851,7 @@
     },
     {
         "id": "195",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_195.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_195.png",
         "conversations": [
             {
                 "from": "human",
@@ -5881,7 +5881,7 @@
     },
     {
         "id": "196",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_196.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_196.png",
         "conversations": [
             {
                 "from": "human",
@@ -5911,7 +5911,7 @@
     },
     {
         "id": "197",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_197.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_197.png",
         "conversations": [
             {
                 "from": "human",
@@ -5941,7 +5941,7 @@
     },
     {
         "id": "198",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_198.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_198.png",
         "conversations": [
             {
                 "from": "human",
@@ -5971,7 +5971,7 @@
     },
     {
         "id": "199",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_199.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_199.png",
         "conversations": [
             {
                 "from": "human",
@@ -6001,7 +6001,7 @@
     },
     {
         "id": "200",
-        "image": "/data/lyx/shy/Graph/GNN/train/GNN_Graph_train_200.png",
+        "image": "/Dataset/GNN/train/GNN_Graph_train_200.png",
         "conversations": [
             {
                 "from": "human",

@@ -1,7 +1,7 @@
 [
     {
         "id": "0",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_0.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_0.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -32,7 +32,7 @@
     },
     {
         "id": "1",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_1.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_1.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -63,7 +63,7 @@
     },
     {
         "id": "2",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_2.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_2.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -94,7 +94,7 @@
     },
     {
         "id": "3",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_3.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_3.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -125,7 +125,7 @@
     },
     {
         "id": "4",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_4.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_4.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -156,7 +156,7 @@
     },
     {
         "id": "5",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_5.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_5.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -187,7 +187,7 @@
     },
     {
         "id": "6",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_6.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_6.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -218,7 +218,7 @@
     },
     {
         "id": "7",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_7.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_7.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -249,7 +249,7 @@
     },
     {
         "id": "8",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_8.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_8.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -280,7 +280,7 @@
     },
     {
         "id": "9",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_9.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_9.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -311,7 +311,7 @@
     },
     {
         "id": "10",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_10.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_10.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -342,7 +342,7 @@
     },
     {
         "id": "11",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_11.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_11.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -373,7 +373,7 @@
     },
     {
         "id": "12",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_12.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_12.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -404,7 +404,7 @@
     },
     {
         "id": "13",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_13.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_13.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -435,7 +435,7 @@
     },
     {
         "id": "14",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_14.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_14.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -466,7 +466,7 @@
     },
     {
         "id": "15",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_15.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_15.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -497,7 +497,7 @@
     },
     {
         "id": "16",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_16.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_16.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -528,7 +528,7 @@
     },
     {
         "id": "17",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_17.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_17.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -559,7 +559,7 @@
     },
     {
         "id": "18",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_18.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_18.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -590,7 +590,7 @@
     },
     {
         "id": "19",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_19.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_19.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -621,7 +621,7 @@
     },
     {
         "id": "20",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_20.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_20.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -652,7 +652,7 @@
     },
     {
         "id": "21",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_21.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_21.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -683,7 +683,7 @@
     },
     {
         "id": "22",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_22.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_22.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -714,7 +714,7 @@
     },
     {
         "id": "23",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_23.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_23.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -745,7 +745,7 @@
     },
     {
         "id": "24",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_24.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_24.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -776,7 +776,7 @@
     },
     {
         "id": "25",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_25.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_25.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -807,7 +807,7 @@
     },
     {
         "id": "26",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_26.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_26.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -838,7 +838,7 @@
     },
     {
         "id": "27",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_27.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_27.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -869,7 +869,7 @@
     },
     {
         "id": "28",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_28.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_28.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -900,7 +900,7 @@
     },
     {
         "id": "29",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_29.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_29.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -931,7 +931,7 @@
     },
     {
         "id": "30",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_30.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_30.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -962,7 +962,7 @@
     },
     {
         "id": "31",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_31.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_31.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -993,7 +993,7 @@
     },
     {
         "id": "32",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_32.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_32.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1024,7 +1024,7 @@
     },
     {
         "id": "33",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_33.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_33.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1055,7 +1055,7 @@
     },
     {
         "id": "34",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_34.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_34.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1086,7 +1086,7 @@
     },
     {
         "id": "35",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_35.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_35.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1117,7 +1117,7 @@
     },
     {
         "id": "36",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_36.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_36.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1148,7 +1148,7 @@
     },
     {
         "id": "37",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_37.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_37.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1179,7 +1179,7 @@
     },
     {
         "id": "38",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_38.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_38.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1210,7 +1210,7 @@
     },
     {
         "id": "39",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_39.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_39.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1241,7 +1241,7 @@
     },
     {
         "id": "40",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_40.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_40.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1272,7 +1272,7 @@
     },
     {
         "id": "41",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_41.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_41.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1303,7 +1303,7 @@
     },
     {
         "id": "42",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_42.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_42.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1334,7 +1334,7 @@
     },
     {
         "id": "43",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_43.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_43.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1365,7 +1365,7 @@
     },
     {
         "id": "44",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_44.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_44.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1396,7 +1396,7 @@
     },
     {
         "id": "45",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_45.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_45.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1427,7 +1427,7 @@
     },
     {
         "id": "46",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_46.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_46.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1458,7 +1458,7 @@
     },
     {
         "id": "47",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_47.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_47.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1489,7 +1489,7 @@
     },
     {
         "id": "48",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_48.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_48.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1520,7 +1520,7 @@
     },
     {
         "id": "49",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_49.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_49.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1551,7 +1551,7 @@
     },
     {
         "id": "50",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_50.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_50.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1582,7 +1582,7 @@
     },
     {
         "id": "51",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_51.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_51.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1613,7 +1613,7 @@
     },
     {
         "id": "52",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_52.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_52.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1644,7 +1644,7 @@
     },
     {
         "id": "53",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_53.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_53.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1675,7 +1675,7 @@
     },
     {
         "id": "54",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_54.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_54.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1706,7 +1706,7 @@
     },
     {
         "id": "55",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_55.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_55.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1737,7 +1737,7 @@
     },
     {
         "id": "56",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_56.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_56.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1768,7 +1768,7 @@
     },
     {
         "id": "57",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_57.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_57.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1799,7 +1799,7 @@
     },
     {
         "id": "58",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_58.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_58.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1830,7 +1830,7 @@
     },
     {
         "id": "59",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_59.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_59.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1861,7 +1861,7 @@
     },
     {
         "id": "60",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_60.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_60.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1892,7 +1892,7 @@
     },
     {
         "id": "61",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_61.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_61.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1923,7 +1923,7 @@
     },
     {
         "id": "62",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_62.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_62.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1954,7 +1954,7 @@
     },
     {
         "id": "63",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_63.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_63.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -1985,7 +1985,7 @@
     },
     {
         "id": "64",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_64.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_64.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2016,7 +2016,7 @@
     },
     {
         "id": "65",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_65.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_65.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -2047,7 +2047,7 @@
     },
     {
         "id": "66",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_66.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_66.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2078,7 +2078,7 @@
     },
     {
         "id": "67",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_67.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_67.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2109,7 +2109,7 @@
     },
     {
         "id": "68",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_68.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_68.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2140,7 +2140,7 @@
     },
     {
         "id": "69",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_69.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_69.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2171,7 +2171,7 @@
     },
     {
         "id": "70",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_70.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_70.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2202,7 +2202,7 @@
     },
     {
         "id": "71",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_71.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_71.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2233,7 +2233,7 @@
     },
     {
         "id": "72",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_72.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_72.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2264,7 +2264,7 @@
     },
     {
         "id": "73",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_73.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_73.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2295,7 +2295,7 @@
     },
     {
         "id": "74",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_74.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_74.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2326,7 +2326,7 @@
     },
     {
         "id": "75",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_75.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_75.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2357,7 +2357,7 @@
     },
     {
         "id": "76",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_76.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_76.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2388,7 +2388,7 @@
     },
     {
         "id": "77",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_77.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_77.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -2419,7 +2419,7 @@
     },
     {
         "id": "78",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_78.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_78.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2450,7 +2450,7 @@
     },
     {
         "id": "79",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_79.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_79.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2481,7 +2481,7 @@
     },
     {
         "id": "80",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_80.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_80.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -2512,7 +2512,7 @@
     },
     {
         "id": "81",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_81.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_81.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2543,7 +2543,7 @@
     },
     {
         "id": "82",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_82.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_82.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2574,7 +2574,7 @@
     },
     {
         "id": "83",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_83.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_83.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2605,7 +2605,7 @@
     },
     {
         "id": "84",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_84.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_84.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2636,7 +2636,7 @@
     },
     {
         "id": "85",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_85.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_85.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -2667,7 +2667,7 @@
     },
     {
         "id": "86",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_86.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_86.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2698,7 +2698,7 @@
     },
     {
         "id": "87",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_87.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_87.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2729,7 +2729,7 @@
     },
     {
         "id": "88",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_88.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_88.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -2760,7 +2760,7 @@
     },
     {
         "id": "89",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_89.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_89.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2791,7 +2791,7 @@
     },
     {
         "id": "90",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_90.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_90.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -2822,7 +2822,7 @@
     },
     {
         "id": "91",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_91.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_91.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2853,7 +2853,7 @@
     },
     {
         "id": "92",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_92.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_92.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2884,7 +2884,7 @@
     },
     {
         "id": "93",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_93.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_93.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2915,7 +2915,7 @@
     },
     {
         "id": "94",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_94.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_94.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2946,7 +2946,7 @@
     },
     {
         "id": "95",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_95.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_95.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -2977,7 +2977,7 @@
     },
     {
         "id": "96",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_96.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_96.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3008,7 +3008,7 @@
     },
     {
         "id": "97",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_97.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_97.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3039,7 +3039,7 @@
     },
     {
         "id": "98",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_98.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_98.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3070,7 +3070,7 @@
     },
     {
         "id": "99",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_99.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_99.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3101,7 +3101,7 @@
     },
     {
         "id": "100",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_100.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_100.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3132,7 +3132,7 @@
     },
     {
         "id": "101",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_101.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_101.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3163,7 +3163,7 @@
     },
     {
         "id": "102",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_102.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_102.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3194,7 +3194,7 @@
     },
     {
         "id": "103",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_103.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_103.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3225,7 +3225,7 @@
     },
     {
         "id": "104",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_104.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_104.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3256,7 +3256,7 @@
     },
     {
         "id": "105",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_105.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_105.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3287,7 +3287,7 @@
     },
     {
         "id": "106",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_106.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_106.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3318,7 +3318,7 @@
     },
     {
         "id": "107",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_107.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_107.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3349,7 +3349,7 @@
     },
     {
         "id": "108",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_108.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_108.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3380,7 +3380,7 @@
     },
     {
         "id": "109",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_109.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_109.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3411,7 +3411,7 @@
     },
     {
         "id": "110",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_110.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_110.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3442,7 +3442,7 @@
     },
     {
         "id": "111",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_111.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_111.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3473,7 +3473,7 @@
     },
     {
         "id": "112",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_112.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_112.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3504,7 +3504,7 @@
     },
     {
         "id": "113",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_113.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_113.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3535,7 +3535,7 @@
     },
     {
         "id": "114",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_114.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_114.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3566,7 +3566,7 @@
     },
     {
         "id": "115",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_115.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_115.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3597,7 +3597,7 @@
     },
     {
         "id": "116",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_116.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_116.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3628,7 +3628,7 @@
     },
     {
         "id": "117",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_117.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_117.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3659,7 +3659,7 @@
     },
     {
         "id": "118",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_118.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_118.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3690,7 +3690,7 @@
     },
     {
         "id": "119",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_119.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_119.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3721,7 +3721,7 @@
     },
     {
         "id": "120",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_120.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_120.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3752,7 +3752,7 @@
     },
     {
         "id": "121",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_121.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_121.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3783,7 +3783,7 @@
     },
     {
         "id": "122",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_122.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_122.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3814,7 +3814,7 @@
     },
     {
         "id": "123",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_123.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_123.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3845,7 +3845,7 @@
     },
     {
         "id": "124",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_124.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_124.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -3876,7 +3876,7 @@
     },
     {
         "id": "125",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_125.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_125.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3907,7 +3907,7 @@
     },
     {
         "id": "126",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_126.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_126.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -3938,7 +3938,7 @@
     },
     {
         "id": "127",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_127.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_127.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -3969,7 +3969,7 @@
     },
     {
         "id": "128",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_128.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_128.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4000,7 +4000,7 @@
     },
     {
         "id": "129",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_129.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_129.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4031,7 +4031,7 @@
     },
     {
         "id": "130",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_130.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_130.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -4062,7 +4062,7 @@
     },
     {
         "id": "131",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_131.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_131.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4093,7 +4093,7 @@
     },
     {
         "id": "132",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_132.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_132.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4124,7 +4124,7 @@
     },
     {
         "id": "133",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_133.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_133.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4155,7 +4155,7 @@
     },
     {
         "id": "134",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_134.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_134.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4186,7 +4186,7 @@
     },
     {
         "id": "135",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_135.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_135.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -4217,7 +4217,7 @@
     },
     {
         "id": "136",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_136.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_136.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4248,7 +4248,7 @@
     },
     {
         "id": "137",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_137.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_137.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -4279,7 +4279,7 @@
     },
     {
         "id": "138",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_138.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_138.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4310,7 +4310,7 @@
     },
     {
         "id": "139",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_139.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_139.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4341,7 +4341,7 @@
     },
     {
         "id": "140",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_140.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_140.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4372,7 +4372,7 @@
     },
     {
         "id": "141",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_141.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_141.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4403,7 +4403,7 @@
     },
     {
         "id": "142",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_142.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_142.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4434,7 +4434,7 @@
     },
     {
         "id": "143",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_143.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_143.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4465,7 +4465,7 @@
     },
     {
         "id": "144",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_144.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_144.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4496,7 +4496,7 @@
     },
     {
         "id": "145",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_145.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_145.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4527,7 +4527,7 @@
     },
     {
         "id": "146",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_146.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_146.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4558,7 +4558,7 @@
     },
     {
         "id": "147",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_147.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_147.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4589,7 +4589,7 @@
     },
     {
         "id": "148",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_148.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_148.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4620,7 +4620,7 @@
     },
     {
         "id": "149",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_149.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_149.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4651,7 +4651,7 @@
     },
     {
         "id": "150",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_150.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_150.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -4682,7 +4682,7 @@
     },
     {
         "id": "151",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_151.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_151.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4713,7 +4713,7 @@
     },
     {
         "id": "152",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_152.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_152.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -4744,7 +4744,7 @@
     },
     {
         "id": "153",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_153.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_153.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4775,7 +4775,7 @@
     },
     {
         "id": "154",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_154.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_154.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4806,7 +4806,7 @@
     },
     {
         "id": "155",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_155.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_155.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4837,7 +4837,7 @@
     },
     {
         "id": "156",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_156.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_156.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4868,7 +4868,7 @@
     },
     {
         "id": "157",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_157.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_157.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4899,7 +4899,7 @@
     },
     {
         "id": "158",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_158.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_158.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -4930,7 +4930,7 @@
     },
     {
         "id": "159",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_159.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_159.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4961,7 +4961,7 @@
     },
     {
         "id": "160",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_160.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_160.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -4992,7 +4992,7 @@
     },
     {
         "id": "161",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_161.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_161.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5023,7 +5023,7 @@
     },
     {
         "id": "162",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_162.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_162.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5054,7 +5054,7 @@
     },
     {
         "id": "163",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_163.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_163.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5085,7 +5085,7 @@
     },
     {
         "id": "164",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_164.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_164.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5116,7 +5116,7 @@
     },
     {
         "id": "165",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_165.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_165.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5147,7 +5147,7 @@
     },
     {
         "id": "166",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_166.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_166.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -5178,7 +5178,7 @@
     },
     {
         "id": "167",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_167.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_167.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5209,7 +5209,7 @@
     },
     {
         "id": "168",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_168.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_168.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -5240,7 +5240,7 @@
     },
     {
         "id": "169",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_169.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_169.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5271,7 +5271,7 @@
     },
     {
         "id": "170",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_170.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_170.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5302,7 +5302,7 @@
     },
     {
         "id": "171",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_171.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_171.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5333,7 +5333,7 @@
     },
     {
         "id": "172",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_172.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_172.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5364,7 +5364,7 @@
     },
     {
         "id": "173",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_173.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_173.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5395,7 +5395,7 @@
     },
     {
         "id": "174",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_174.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_174.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5426,7 +5426,7 @@
     },
     {
         "id": "175",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_175.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_175.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5457,7 +5457,7 @@
     },
     {
         "id": "176",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_176.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_176.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5488,7 +5488,7 @@
     },
     {
         "id": "177",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_177.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_177.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5519,7 +5519,7 @@
     },
     {
         "id": "178",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_178.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_178.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5550,7 +5550,7 @@
     },
     {
         "id": "179",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_179.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_179.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5581,7 +5581,7 @@
     },
     {
         "id": "180",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_180.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_180.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -5612,7 +5612,7 @@
     },
     {
         "id": "181",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_181.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_181.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5643,7 +5643,7 @@
     },
     {
         "id": "182",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_182.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_182.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5674,7 +5674,7 @@
     },
     {
         "id": "183",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_183.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_183.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5705,7 +5705,7 @@
     },
     {
         "id": "184",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_184.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_184.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5736,7 +5736,7 @@
     },
     {
         "id": "185",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_185.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_185.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5767,7 +5767,7 @@
     },
     {
         "id": "186",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_186.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_186.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -5798,7 +5798,7 @@
     },
     {
         "id": "187",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_187.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_187.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5829,7 +5829,7 @@
     },
     {
         "id": "188",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_188.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_188.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -5860,7 +5860,7 @@
     },
     {
         "id": "189",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_189.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_189.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5891,7 +5891,7 @@
     },
     {
         "id": "190",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_190.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_190.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5922,7 +5922,7 @@
     },
     {
         "id": "191",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_191.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_191.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5953,7 +5953,7 @@
     },
     {
         "id": "192",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_192.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_192.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -5984,7 +5984,7 @@
     },
     {
         "id": "193",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_193.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_193.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -6015,7 +6015,7 @@
     },
     {
         "id": "194",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_194.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_194.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6046,7 +6046,7 @@
     },
     {
         "id": "195",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_195.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_195.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6077,7 +6077,7 @@
     },
     {
         "id": "196",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_196.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_196.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6108,7 +6108,7 @@
     },
     {
         "id": "197",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_197.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_197.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6139,7 +6139,7 @@
     },
     {
         "id": "198",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_198.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_198.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6170,7 +6170,7 @@
     },
     {
         "id": "199",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_199.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_199.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6201,7 +6201,7 @@
     },
     {
         "id": "200",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_200.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_200.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6232,7 +6232,7 @@
     },
     {
         "id": "201",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_201.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_201.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6263,7 +6263,7 @@
     },
     {
         "id": "202",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_202.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_202.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6294,7 +6294,7 @@
     },
     {
         "id": "203",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_203.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_203.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6325,7 +6325,7 @@
     },
     {
         "id": "204",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_204.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_204.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6356,7 +6356,7 @@
     },
     {
         "id": "205",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_205.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_205.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6387,7 +6387,7 @@
     },
     {
         "id": "206",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_206.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_206.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6418,7 +6418,7 @@
     },
     {
         "id": "207",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_207.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_207.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6449,7 +6449,7 @@
     },
     {
         "id": "208",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_208.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_208.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6480,7 +6480,7 @@
     },
     {
         "id": "209",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_209.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_209.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6511,7 +6511,7 @@
     },
     {
         "id": "210",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_210.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_210.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6542,7 +6542,7 @@
     },
     {
         "id": "211",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_211.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_211.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6573,7 +6573,7 @@
     },
     {
         "id": "212",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_212.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_212.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6604,7 +6604,7 @@
     },
     {
         "id": "213",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_213.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_213.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6635,7 +6635,7 @@
     },
     {
         "id": "214",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_214.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_214.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6666,7 +6666,7 @@
     },
     {
         "id": "215",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_215.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_215.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6697,7 +6697,7 @@
     },
     {
         "id": "216",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_216.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_216.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6728,7 +6728,7 @@
     },
     {
         "id": "217",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_217.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_217.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6759,7 +6759,7 @@
     },
     {
         "id": "218",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_218.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_218.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6790,7 +6790,7 @@
     },
     {
         "id": "219",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_219.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_219.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6821,7 +6821,7 @@
     },
     {
         "id": "220",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_220.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_220.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -6852,7 +6852,7 @@
     },
     {
         "id": "221",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_221.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_221.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -6883,7 +6883,7 @@
     },
     {
         "id": "222",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_222.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_222.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -6914,7 +6914,7 @@
     },
     {
         "id": "223",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_223.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_223.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -6945,7 +6945,7 @@
     },
     {
         "id": "224",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_224.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_224.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -6976,7 +6976,7 @@
     },
     {
         "id": "225",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_225.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_225.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7007,7 +7007,7 @@
     },
     {
         "id": "226",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_226.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_226.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7038,7 +7038,7 @@
     },
     {
         "id": "227",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_227.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_227.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7069,7 +7069,7 @@
     },
     {
         "id": "228",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_228.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_228.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7100,7 +7100,7 @@
     },
     {
         "id": "229",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_229.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_229.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7131,7 +7131,7 @@
     },
     {
         "id": "230",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_230.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_230.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7162,7 +7162,7 @@
     },
     {
         "id": "231",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_231.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_231.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7193,7 +7193,7 @@
     },
     {
         "id": "232",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_232.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_232.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7224,7 +7224,7 @@
     },
     {
         "id": "233",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_233.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_233.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7255,7 +7255,7 @@
     },
     {
         "id": "234",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_234.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_234.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -7286,7 +7286,7 @@
     },
     {
         "id": "235",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_235.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_235.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7317,7 +7317,7 @@
     },
     {
         "id": "236",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_236.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_236.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7348,7 +7348,7 @@
     },
     {
         "id": "237",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_237.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_237.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7379,7 +7379,7 @@
     },
     {
         "id": "238",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_238.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_238.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7410,7 +7410,7 @@
     },
     {
         "id": "239",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_239.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_239.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7441,7 +7441,7 @@
     },
     {
         "id": "240",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_240.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_240.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7472,7 +7472,7 @@
     },
     {
         "id": "241",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_241.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_241.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -7503,7 +7503,7 @@
     },
     {
         "id": "242",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_242.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_242.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7534,7 +7534,7 @@
     },
     {
         "id": "243",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_243.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_243.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7565,7 +7565,7 @@
     },
     {
         "id": "244",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_244.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_244.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7596,7 +7596,7 @@
     },
     {
         "id": "245",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_245.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_245.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7627,7 +7627,7 @@
     },
     {
         "id": "246",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_246.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_246.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7658,7 +7658,7 @@
     },
     {
         "id": "247",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_247.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_247.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7689,7 +7689,7 @@
     },
     {
         "id": "248",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_248.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_248.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7720,7 +7720,7 @@
     },
     {
         "id": "249",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_249.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_249.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7751,7 +7751,7 @@
     },
     {
         "id": "250",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_250.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_250.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7782,7 +7782,7 @@
     },
     {
         "id": "251",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_251.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_251.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -7813,7 +7813,7 @@
     },
     {
         "id": "252",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_252.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_252.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7844,7 +7844,7 @@
     },
     {
         "id": "253",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_253.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_253.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7875,7 +7875,7 @@
     },
     {
         "id": "254",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_254.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_254.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -7906,7 +7906,7 @@
     },
     {
         "id": "255",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_255.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_255.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -7937,7 +7937,7 @@
     },
     {
         "id": "256",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_256.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_256.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -7968,7 +7968,7 @@
     },
     {
         "id": "257",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_257.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_257.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -7999,7 +7999,7 @@
     },
     {
         "id": "258",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_258.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_258.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8030,7 +8030,7 @@
     },
     {
         "id": "259",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_259.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_259.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8061,7 +8061,7 @@
     },
     {
         "id": "260",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_260.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_260.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8092,7 +8092,7 @@
     },
     {
         "id": "261",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_261.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_261.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8123,7 +8123,7 @@
     },
     {
         "id": "262",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_262.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_262.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8154,7 +8154,7 @@
     },
     {
         "id": "263",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_263.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_263.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8185,7 +8185,7 @@
     },
     {
         "id": "264",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_264.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_264.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8216,7 +8216,7 @@
     },
     {
         "id": "265",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_265.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_265.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8247,7 +8247,7 @@
     },
     {
         "id": "266",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_266.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_266.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8278,7 +8278,7 @@
     },
     {
         "id": "267",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_267.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_267.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8309,7 +8309,7 @@
     },
     {
         "id": "268",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_268.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_268.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8340,7 +8340,7 @@
     },
     {
         "id": "269",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_269.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_269.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8371,7 +8371,7 @@
     },
     {
         "id": "270",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_270.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_270.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8402,7 +8402,7 @@
     },
     {
         "id": "271",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_271.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_271.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8433,7 +8433,7 @@
     },
     {
         "id": "272",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_272.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_272.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -8464,7 +8464,7 @@
     },
     {
         "id": "273",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_273.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_273.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8495,7 +8495,7 @@
     },
     {
         "id": "274",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_274.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_274.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8526,7 +8526,7 @@
     },
     {
         "id": "275",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_275.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_275.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8557,7 +8557,7 @@
     },
     {
         "id": "276",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_276.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_276.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8588,7 +8588,7 @@
     },
     {
         "id": "277",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_277.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_277.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8619,7 +8619,7 @@
     },
     {
         "id": "278",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_278.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_278.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8650,7 +8650,7 @@
     },
     {
         "id": "279",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_279.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_279.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8681,7 +8681,7 @@
     },
     {
         "id": "280",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_280.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_280.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8712,7 +8712,7 @@
     },
     {
         "id": "281",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_281.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_281.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8743,7 +8743,7 @@
     },
     {
         "id": "282",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_282.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_282.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8774,7 +8774,7 @@
     },
     {
         "id": "283",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_283.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_283.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8805,7 +8805,7 @@
     },
     {
         "id": "284",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_284.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_284.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8836,7 +8836,7 @@
     },
     {
         "id": "285",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_285.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_285.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -8867,7 +8867,7 @@
     },
     {
         "id": "286",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_286.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_286.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8898,7 +8898,7 @@
     },
     {
         "id": "287",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_287.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_287.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8929,7 +8929,7 @@
     },
     {
         "id": "288",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_288.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_288.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8960,7 +8960,7 @@
     },
     {
         "id": "289",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_289.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_289.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -8991,7 +8991,7 @@
     },
     {
         "id": "290",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_290.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_290.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9022,7 +9022,7 @@
     },
     {
         "id": "291",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_291.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_291.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9053,7 +9053,7 @@
     },
     {
         "id": "292",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_292.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_292.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9084,7 +9084,7 @@
     },
     {
         "id": "293",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_293.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_293.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9115,7 +9115,7 @@
     },
     {
         "id": "294",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_294.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_294.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9146,7 +9146,7 @@
     },
     {
         "id": "295",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_295.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_295.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9177,7 +9177,7 @@
     },
     {
         "id": "296",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_296.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_296.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9208,7 +9208,7 @@
     },
     {
         "id": "297",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_297.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_297.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9239,7 +9239,7 @@
     },
     {
         "id": "298",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_298.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_298.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9270,7 +9270,7 @@
     },
     {
         "id": "299",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_299.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_299.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9301,7 +9301,7 @@
     },
     {
         "id": "300",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_300.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_300.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9332,7 +9332,7 @@
     },
     {
         "id": "301",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_301.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_301.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9363,7 +9363,7 @@
     },
     {
         "id": "302",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_302.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_302.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9394,7 +9394,7 @@
     },
     {
         "id": "303",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_303.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_303.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9425,7 +9425,7 @@
     },
     {
         "id": "304",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_304.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_304.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9456,7 +9456,7 @@
     },
     {
         "id": "305",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_305.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_305.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9487,7 +9487,7 @@
     },
     {
         "id": "306",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_306.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_306.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9518,7 +9518,7 @@
     },
     {
         "id": "307",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_307.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_307.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9549,7 +9549,7 @@
     },
     {
         "id": "308",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_308.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_308.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9580,7 +9580,7 @@
     },
     {
         "id": "309",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_309.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_309.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9611,7 +9611,7 @@
     },
     {
         "id": "310",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_310.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_310.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9642,7 +9642,7 @@
     },
     {
         "id": "311",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_311.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_311.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9673,7 +9673,7 @@
     },
     {
         "id": "312",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_312.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_312.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9704,7 +9704,7 @@
     },
     {
         "id": "313",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_313.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_313.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9735,7 +9735,7 @@
     },
     {
         "id": "314",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_314.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_314.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9766,7 +9766,7 @@
     },
     {
         "id": "315",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_315.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_315.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -9797,7 +9797,7 @@
     },
     {
         "id": "316",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_316.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_316.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9828,7 +9828,7 @@
     },
     {
         "id": "317",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_317.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_317.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -9859,7 +9859,7 @@
     },
     {
         "id": "318",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_318.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_318.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9890,7 +9890,7 @@
     },
     {
         "id": "319",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_319.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_319.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9921,7 +9921,7 @@
     },
     {
         "id": "320",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_320.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_320.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9952,7 +9952,7 @@
     },
     {
         "id": "321",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_321.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_321.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -9983,7 +9983,7 @@
     },
     {
         "id": "322",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_322.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_322.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10014,7 +10014,7 @@
     },
     {
         "id": "323",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_323.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_323.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10045,7 +10045,7 @@
     },
     {
         "id": "324",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_324.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_324.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10076,7 +10076,7 @@
     },
     {
         "id": "325",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_325.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_325.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10107,7 +10107,7 @@
     },
     {
         "id": "326",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_326.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_326.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10138,7 +10138,7 @@
     },
     {
         "id": "327",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_327.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_327.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10169,7 +10169,7 @@
     },
     {
         "id": "328",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_328.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_328.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -10200,7 +10200,7 @@
     },
     {
         "id": "329",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_329.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_329.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10231,7 +10231,7 @@
     },
     {
         "id": "330",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_330.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_330.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10262,7 +10262,7 @@
     },
     {
         "id": "331",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_331.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_331.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10293,7 +10293,7 @@
     },
     {
         "id": "332",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_332.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_332.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10324,7 +10324,7 @@
     },
     {
         "id": "333",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_333.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_333.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10355,7 +10355,7 @@
     },
     {
         "id": "334",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_334.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_334.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10386,7 +10386,7 @@
     },
     {
         "id": "335",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_335.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_335.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10417,7 +10417,7 @@
     },
     {
         "id": "336",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_336.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_336.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10448,7 +10448,7 @@
     },
     {
         "id": "337",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_337.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_337.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10479,7 +10479,7 @@
     },
     {
         "id": "338",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_338.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_338.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10510,7 +10510,7 @@
     },
     {
         "id": "339",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_339.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_339.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10541,7 +10541,7 @@
     },
     {
         "id": "340",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_340.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_340.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10572,7 +10572,7 @@
     },
     {
         "id": "341",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_341.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_341.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -10603,7 +10603,7 @@
     },
     {
         "id": "342",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_342.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_342.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10634,7 +10634,7 @@
     },
     {
         "id": "343",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_343.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_343.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10665,7 +10665,7 @@
     },
     {
         "id": "344",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_344.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_344.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10696,7 +10696,7 @@
     },
     {
         "id": "345",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_345.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_345.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10727,7 +10727,7 @@
     },
     {
         "id": "346",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_346.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_346.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10758,7 +10758,7 @@
     },
     {
         "id": "347",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_347.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_347.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10789,7 +10789,7 @@
     },
     {
         "id": "348",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_348.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_348.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10820,7 +10820,7 @@
     },
     {
         "id": "349",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_349.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_349.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10851,7 +10851,7 @@
     },
     {
         "id": "350",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_350.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_350.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -10882,7 +10882,7 @@
     },
     {
         "id": "351",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_351.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_351.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10913,7 +10913,7 @@
     },
     {
         "id": "352",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_352.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_352.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10944,7 +10944,7 @@
     },
     {
         "id": "353",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_353.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_353.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -10975,7 +10975,7 @@
     },
     {
         "id": "354",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_354.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_354.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11006,7 +11006,7 @@
     },
     {
         "id": "355",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_355.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_355.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11037,7 +11037,7 @@
     },
     {
         "id": "356",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_356.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_356.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11068,7 +11068,7 @@
     },
     {
         "id": "357",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_357.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_357.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11099,7 +11099,7 @@
     },
     {
         "id": "358",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_358.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_358.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -11130,7 +11130,7 @@
     },
     {
         "id": "359",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_359.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_359.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11161,7 +11161,7 @@
     },
     {
         "id": "360",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_360.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_360.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11192,7 +11192,7 @@
     },
     {
         "id": "361",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_361.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_361.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11223,7 +11223,7 @@
     },
     {
         "id": "362",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_362.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_362.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11254,7 +11254,7 @@
     },
     {
         "id": "363",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_363.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_363.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11285,7 +11285,7 @@
     },
     {
         "id": "364",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_364.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_364.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11316,7 +11316,7 @@
     },
     {
         "id": "365",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_365.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_365.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -11347,7 +11347,7 @@
     },
     {
         "id": "366",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_366.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_366.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -11378,7 +11378,7 @@
     },
     {
         "id": "367",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_367.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_367.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -11409,7 +11409,7 @@
     },
     {
         "id": "368",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_368.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_368.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11440,7 +11440,7 @@
     },
     {
         "id": "369",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_369.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_369.png",
         "difficulty": "medium",
         "conversations": [
             {
@@ -11471,7 +11471,7 @@
     },
     {
         "id": "370",
-        "image": "/data/lyx/shy/Graph/Connectivity/test/Connectivity_Graph_test_370.png",
+        "image": "/Dataset/Connectivity/test/Connectivity_Graph_test_370.png",
         "difficulty": "medium",
         "conversations": [
             {

@@ -1,7 +1,7 @@
 [
     {
         "id": "0",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_0.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_0.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -32,7 +32,7 @@
     },
     {
         "id": "1",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_1.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_1.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -63,7 +63,7 @@
     },
     {
         "id": "2",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_2.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_2.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -94,7 +94,7 @@
     },
     {
         "id": "3",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_3.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_3.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -125,7 +125,7 @@
     },
     {
         "id": "4",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_4.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_4.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -156,7 +156,7 @@
     },
     {
         "id": "5",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_5.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_5.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -187,7 +187,7 @@
     },
     {
         "id": "6",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_6.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_6.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -218,7 +218,7 @@
     },
     {
         "id": "7",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_7.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_7.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -249,7 +249,7 @@
     },
     {
         "id": "8",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_8.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_8.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -280,7 +280,7 @@
     },
     {
         "id": "9",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_9.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_9.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -311,7 +311,7 @@
     },
     {
         "id": "10",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_10.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_10.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -342,7 +342,7 @@
     },
     {
         "id": "11",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_11.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_11.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -373,7 +373,7 @@
     },
     {
         "id": "12",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_12.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_12.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -404,7 +404,7 @@
     },
     {
         "id": "13",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_13.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_13.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -435,7 +435,7 @@
     },
     {
         "id": "14",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_14.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_14.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -466,7 +466,7 @@
     },
     {
         "id": "15",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_15.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_15.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -497,7 +497,7 @@
     },
     {
         "id": "16",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_16.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_16.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -528,7 +528,7 @@
     },
     {
         "id": "17",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_17.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_17.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -559,7 +559,7 @@
     },
     {
         "id": "18",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_18.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_18.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -590,7 +590,7 @@
     },
     {
         "id": "19",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_19.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_19.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -621,7 +621,7 @@
     },
     {
         "id": "20",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_20.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_20.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -652,7 +652,7 @@
     },
     {
         "id": "21",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_21.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_21.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -683,7 +683,7 @@
     },
     {
         "id": "22",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_22.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_22.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -714,7 +714,7 @@
     },
     {
         "id": "23",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_23.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_23.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -745,7 +745,7 @@
     },
     {
         "id": "24",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_24.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_24.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -776,7 +776,7 @@
     },
     {
         "id": "25",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_25.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_25.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -807,7 +807,7 @@
     },
     {
         "id": "26",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_26.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_26.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -838,7 +838,7 @@
     },
     {
         "id": "27",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_27.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_27.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -869,7 +869,7 @@
     },
     {
         "id": "28",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_28.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_28.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -900,7 +900,7 @@
     },
     {
         "id": "29",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_29.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_29.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -931,7 +931,7 @@
     },
     {
         "id": "30",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_30.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_30.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -962,7 +962,7 @@
     },
     {
         "id": "31",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_31.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_31.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -993,7 +993,7 @@
     },
     {
         "id": "32",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_32.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_32.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1024,7 +1024,7 @@
     },
     {
         "id": "33",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_33.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_33.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1055,7 +1055,7 @@
     },
     {
         "id": "34",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_34.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_34.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1086,7 +1086,7 @@
     },
     {
         "id": "35",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_35.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_35.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1117,7 +1117,7 @@
     },
     {
         "id": "36",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_36.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_36.png",
         "difficulty": "easy",
         "conversations": [
             {
@@ -1148,7 +1148,7 @@
     },
     {
         "id": "37",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_37.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_37.png",
         "difficulty": "hard",
         "conversations": [
             {
@@ -1179,7 +1179,7 @@
     },
     {
         "id": "38",
-        "image": "/data/lyx/shy/Graph/GNN/test/GNN_Graph_test_38.png",
+        "image": "/Dataset/GNN/test/GNN_Graph_test_38.png",
         "difficulty": "easy",
         "conversations": [
             {
