@@ -1,7 +1,5 @@
 # VisionGraph: Leveraging Large Multimodal Models for Graph Theory Problems in Visual Context
 
-# GEMEL: Generative Multimodal Entity Linking
-
 <div align="center">
 
  [Overview](https://github.com/HITsz-TMG/VisionGraph#sparkles-overview) | [News](https://github.com/HITsz-TMG/VisionGraph#fire-news) | [Illustration](https://github.com/HITsz-TMG/VisionGraph#rocket-illustration) | [Citation](https://github.com/HITsz-TMG/VisionGraph#citation)
