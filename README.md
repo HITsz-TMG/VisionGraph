@@ -20,7 +20,7 @@ If you have any question, please feel free to contact me via email at liyunxin98
 
 ## :fire: News
 
-[24.05.08] We have updated our paper.
+[24.05.08] We have updated our paper: [VisionGraph](https://arxiv.org/abs/2405.04950).
 
 [24.05.11] We release the prompts, datasets, checkpoints and evaluation methods related to VisionGraph and DPR.
 
